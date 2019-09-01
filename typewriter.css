@@ -1,3 +1,7 @@
+body {
+  min-height: 100vh;
+}
+
 .typewritten {
-    font-family: 'Special Elite', cursive;        
+  font-family: "Special Elite", cursive;
 }
